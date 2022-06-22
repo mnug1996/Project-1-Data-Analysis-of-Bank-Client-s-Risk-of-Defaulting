@@ -9,4 +9,8 @@ The goal for this project is to prepare a report for a bank’s loan division. T
 * Opened and assessed the characteristics of the data.
 * Preprocessed the data: 
   - Dealt with missing values.
-  - 
+  - Examined features and handled strange values.
+  - Filled NaN's with appropriate values.
+  - Normalized and lemmatized each string for categorization.
+  - Assigned classes within each feature using for-loops.
+ * Created pivot tables aggregated on the "debt" feature to visualize relationship with other features.
